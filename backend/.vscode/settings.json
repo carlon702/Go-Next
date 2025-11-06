@@ -1,0 +1,12 @@
+{
+  "go.gopath": "",
+  "go.goroot": "",
+  "go.inferGopath": false,
+  "go.useLanguageServer": true,
+  "gopls": {
+    "build.directoryFilters": [
+      "-node_modules"
+    ],
+    "ui.semanticTokens": true
+  }
+}
